@@ -4,5 +4,6 @@
 
 #### Ch03
 
-1. Looping a triangle.
+1. Looping a triangle
 2. FizzBuzz
+3. Chessboard
