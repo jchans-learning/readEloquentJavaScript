@@ -13,8 +13,7 @@ for (let i = 0; i < 100; i++) {
   if (numberToCheck % 3 == 0 || numberToCheck % 5 == 0){
     if (numberToCheck % 3 == 0 && numberToCheck % 5 != 0) console.log('Fizz');
     else if (numberToCheck % 3 != 0 && numberToCheck % 5 == 0) console.log('Buzz');
-    // console.log('Yup!');
-    else console.log(numberToCheck);
+    else console.log('FizzBuzz');
   } else {
     console.log(numberToCheck);
   }
